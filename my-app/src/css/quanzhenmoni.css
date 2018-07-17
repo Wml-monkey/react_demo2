@@ -1,0 +1,46 @@
+.tijiao {
+  line-height: 3.33333333rem;
+  color: #18b4ed;
+  margin-left: 1rem;
+}
+.moniti_bottom {
+  height: 3.53333333rem;
+  border-top: 0.06666667rem solid #f0f0f0;
+  background: #fff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  line-height: 3.53333333rem;
+  color: #999999;
+}
+.moniti_bottom strong,
+.moniti_bottom span {
+  float: left;
+  line-height: 0.8rem;
+  font-size: 0.8rem;
+  padding-top: 2.33333333rem;
+  margin: 0 2rem;
+}
+.moniti_bottom .top_ti {
+  background: url("../images/top_ti.png") no-repeat center 0.5rem;
+  background-size: 1.5rem 1.23333333rem;
+}
+.moniti_bottom .xia_ti {
+  background: url("../images/xiati.png") no-repeat center 0.5rem;
+  background-size: 1.5rem 1.23333333rem;
+}
+.moniti_bottom .zongti {
+  background: url("../images/zongti.png") no-repeat center 0.5rem;
+  background-size: 1.66666667rem 1.5rem;
+}
+.moniti_bottom .shijian {
+  background: url("../images/shijian.png") no-repeat center 0.5rem;
+  background-size: 1.5rem 1.5rem;
+}
+#finall_cont {
+  margin-bottom: 0;
+}
+#shijian {
+  float: right;
+  margin-left: -0.16666667rem;
+}

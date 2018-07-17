@@ -1,0 +1,61 @@
+.zhangjie_list {
+  background: #fff;
+  padding: 0 0.66666667rem;
+}
+.zhangjie_list li {
+  line-height: 3.2rem;
+  border-bottom: 0.06666667rem solid #f0f0f0;
+}
+.zhangjie_list li .zhangjie_num {
+  display: inline-block;
+  width: 1.2rem;
+  height: 1.2rem;
+  line-height: 1.2rem;
+  background: #18b4ed;
+  color: #fff;
+  text-align: center;
+  border-radius: 0.26666667rem;
+  margin-right: 0.66666667rem;
+  vertical-align: middle;
+}
+.zhangjie_list li span {
+  font-size: 1rem;
+  color: #333333;
+  margin-right: 0.66666667rem;
+  vertical-align: middle;
+}
+.zhangjie_list li i {
+  font-size: 0.6rem;
+  color: #999999;
+  vertical-align: middle;
+}
+.zhangjie_list li .zhangjie_bg {
+  display: inline-block;
+  width: 0.33333333rem;
+  height: 0.66666667rem;
+  background: url("../images/dianji_more_jiantou.png") no-repeat;
+  background-size: cover;
+  float: right;
+  margin-top: 1.26666667rem;
+}
+.zhangjie_dibu {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.ti_cheyoufenxi {
+  margin-bottom: 3.33333333rem;
+}
+.wrap {
+  overflow: hidden;
+  height: 100%;
+}
+.wrap .ul {
+  width: 75rem;
+  position: relative;
+  left: 0;
+  top: 0;
+}
+.wrap .ul .cont {
+  float: left;
+}

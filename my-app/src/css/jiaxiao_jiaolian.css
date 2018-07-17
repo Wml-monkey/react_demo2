@@ -1,0 +1,81 @@
+.jiaolian_list li {
+  padding: 0 1rem;
+  border-bottom: 0.06666667rem solid #eeeeee;
+  height: 6.46666667rem;
+}
+.jiaolian_list li .touxiang_box {
+  position: relative;
+  height: 5.16666667rem;
+  width: 3.33333333rem;
+  margin-right: 0.83333333rem;
+}
+.jiaolian_list li .vip {
+  width: 1rem;
+  height: 1rem;
+  background: url("../images/jiaolian_vip.png") no-repeat;
+  background-size: 1rem 1rem;
+  position: absolute;
+  right: 0;
+  bottom: 0.26666667rem;
+}
+.jiaolian_list li .touxiang {
+  width: 3.33333333rem;
+  height: 3.33333333rem;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: 1.8rem;
+  position: relative;
+}
+.jiaolian_list li .touxiang img {
+  width: 3.33333333rem;
+  height: 3.33333333rem;
+}
+.jiaolian_list li .jiaolian_cont {
+  width: 14.83333333rem;
+  height: 6.46666667rem;
+}
+.jiaolian_list li .jiaolian_cont .jiaolian_name {
+  margin-top: 1.5rem;
+  margin-bottom: 0.66666667rem;
+  font-size: 1.06666667rem;
+  line-height: 1.06666667rem;
+  color: #333333;
+}
+.jiaolian_list li .jiaolian_cont .jiaolian_name em {
+  margin-left: 0.5rem;
+  display: inline-block;
+  font-size: 0.6rem;
+  line-height: 0.6rem;
+  color: #666666;
+  padding: 0.13333333rem 0.26666667rem;
+  border: 0.06666667rem solid #666;
+}
+.jiaolian_list li .jiaolian_cont .jiaolian_score {
+  height: 0.66666667rem;
+  width: 14rem;
+  font-size: 0.66666667rem;
+  line-height: 0.66666667rem;
+  color: #676767;
+}
+.jiaolian_list li .jiaolian_cont .jiaolian_score .stare {
+  margin-right: 0.33333333rem;
+  width: 4.33333333rem;
+  height: 0.66666667rem;
+  background: url("../images/jiaolian_stare_di.png") no-repeat;
+  background-size: 4.33333333rem 0.66666667rem;
+}
+.jiaolian_list li .jiaolian_cont .jiaolian_score .stare .stare_new {
+  width: 4.33333333rem;
+  height: 0.66666667rem;
+  background: url("../images/jiaolian_stare_top.png") no-repeat;
+  background-size: 4.33333333rem 0.66666667rem;
+}
+.jiaolian_list li .jiaolian_cont .xueyuan {
+  font-size: 0.8rem;
+  line-height: 2.53333333rem;
+  color: #676767;
+}
+.jiaolian_list li .jiaolian_cont .xueyuan em {
+  margin-left: 0.16666667rem;
+  color: #9a9a9a;
+}

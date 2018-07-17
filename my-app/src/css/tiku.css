@@ -1,0 +1,79 @@
+.tiku_list {
+  background: #fff;
+  padding: 0.66666667rem 0.66666667rem 0;
+  margin-bottom: 0.66666667rem;
+}
+.tiku_list dt {
+  font-size: 1.06666667rem;
+  line-height: 2.06666667rem;
+  color: #333333;
+  font-weight: bold;
+}
+.tiku_list dd {
+  font-size: 0.93333333rem;
+  line-height: 3.13333333rem;
+  border-bottom: 0.06666667rem solid #f0f0f0;
+}
+.tiku_list dd em {
+  font-size: 0.46666667rem;
+  line-height: 0.46666667rem;
+  padding: 0.26666667rem 0.5rem;
+  border-radius: 0.16666667rem;
+  background: #18b4ed;
+  color: #fff;
+  text-align: center;
+  margin-right: 0.66666667rem;
+}
+.tiku_list dd span {
+  color: #333333;
+  margin-right: 0.66666667rem;
+}
+.tiku_list dd i {
+  font-size: 0.66666667rem;
+  color: #999999;
+}
+.tiku_list dd b {
+  display: inline-block;
+  width: 0.33333333rem;
+  height: 0.66666667rem;
+  float: right;
+  background: url("../images/dianji_more_jiantou.png") no-repeat;
+  background-size: 0.33333333rem 0.66666667rem;
+  margin-top: 1.16666667rem;
+}
+.remen_tiku {
+  background: #fff;
+}
+.remen_tiku dt {
+  font-size: 0.86666667rem;
+  font-weight: bold;
+  padding-left: 1.06666667rem;
+  line-height: 3.66666667rem;
+  border-bottom: 0.06666667rem solid #f0f0f0;
+  color: #333333;
+}
+.remen_tiku dd {
+  margin: 0 1rem;
+  font-size: 0.93333333rem;
+  line-height: 3.66666667rem;
+  color: #393939;
+  border-bottom: 0.06666667rem solid #f0f0f0;
+}
+.remen_tiku dd a:before {
+  display: inline-block;
+  content: "";
+  width: 0.33333333rem;
+  height: 0.33333333rem;
+  border-radius: 50%;
+  background: #333333;
+  margin-bottom: 0.26666667rem;
+  margin-right: 0.66666667rem;
+}
+.question_dd {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.question_dd em {
+  margin-right: 1rem;
+}

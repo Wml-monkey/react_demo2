@@ -1,0 +1,190 @@
+.fenye_title {
+  background: #fff;
+  padding-left: 1.16666667rem;
+  width: 22.66666667rem;
+  height: 3.33333333rem;
+  position: fixed;
+  z-index: 99;
+  padding-right: 1.16666667rem;
+  border-bottom: 0.06666667rem solid #f7f7f7;
+}
+.fenye_title a {
+  float: left;
+  margin-top: 1.16666667rem;
+  display: block;
+  width: 0.66666667rem;
+  height: 1rem;
+  background: url("../images/back_bg.png") no-repeat;
+  background-size: 0.9rem 1.16666667rem;
+  margin-right: 1rem;
+}
+.fenye_title .car {
+  margin-top: 0.83333333rem;
+  width: 2.66666667rem;
+  height: 1.66666667rem;
+  background: url("../images/car.png") no-repeat;
+  background-size: 2.66666667rem 1.66666667rem;
+}
+.fenye_title .set {
+  width: 1.06666667rem;
+  height: 0.86666667rem;
+  background: url("../images/three_line.png") no-repeat;
+  background-size: 1.06666667rem 0.86666667rem;
+  margin-top: 1.23333333rem;
+  margin-left: 1.16666667rem;
+  margin-right: 1.16666667rem;
+}
+.fenye_title .area {
+  font-size: 0.86666667rem;
+  line-height: 1rem;
+  margin-top: 1.16666667rem;
+  color: #1dacf9;
+  padding-right: 1rem;
+  background: url("../images/title_area_bg.png") no-repeat;
+  background-position: right center;
+  background-size: 0.7rem 0.4rem;
+  font-weight: bold;
+}
+.fenye_title .jiakaoquan_zhuye {
+  font-size: 1rem;
+  line-height: 3.33333333rem;
+  color: #18b4ed;
+}
+.fenye_title .jiakaoquan_zhuye:before {
+  content: "•";
+  display: inline-block;
+  margin: 0 0.5rem 0 0.9rem;
+}
+.fenye_zhuye p {
+  color: #666;
+  font-weight: bold;
+}
+.remenhuati_1 dt {
+  background: #fff;
+  font-weight: bold;
+  font-size: 1rem;
+  padding-left: 0.66666667rem;
+  color: #666666;
+  line-height: 2.6rem;
+  border-bottom: 0.06666667rem solid #e9e9e9;
+}
+.remenhuati_1 dd {
+  padding: 0.66666667rem 1rem;
+  margin-bottom: 0.4rem;
+  background: #fff;
+  border-bottom: 0.06666667rem solid #e9e9e9;
+}
+.remenhuati_1 dd .huati_title {
+  height: 2.66666667rem;
+  width: 23rem;
+}
+.remenhuati_1 dd .huati_title .img {
+  width: 2.66666667rem;
+  height: 2.66666667rem;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 0.66666667rem;
+}
+.remenhuati_1 dd .huati_title .img img {
+  width: 2.66666667rem;
+  height: 2.66666667rem;
+}
+.remenhuati_1 dd .huati_title .name span {
+  line-height: 2.66666667rem;
+  margin-right: 1rem;
+}
+.remenhuati_1 dd .huati_title .name .mingzi {
+  font-size: 1rem;
+  color: #666666;
+}
+.remenhuati_1 dd .huati_title .name .didian {
+  font-size: 0.86666667rem;
+  color: #999999;
+}
+.remenhuati_1 dd .huati_title .name .didian em {
+  font-size: 0.8rem;
+  color: #7eb4ed;
+  margin-left: 0.66666667rem;
+}
+.remenhuati_1 dd .huati_sub {
+  padding-bottom: 0.16666667rem;
+}
+.remenhuati_1 dd .huati_sub span {
+  display: inline-block;
+  width: 100%;
+  color: #333333;
+}
+.remenhuati_1 dd .huati_sub .jing {
+  color: #ff9900;
+  display: inline-block;
+  line-height: 1.2rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  border: 0.06666667rem solid #ff9900;
+  text-align: center;
+  border-radius: 0.23333333rem;
+  margin-right: 0.5rem;
+  font-size: 0.73333333rem;
+}
+.remenhuati_1 dd .huati_sub .sub_title {
+  font-size: 1.06666667rem;
+  color: #333333;
+  line-height: 1.66666667rem;
+}
+.remenhuati_1 dd .huati_img {
+  font-size: 0;
+}
+.remenhuati_1 dd .huati_img img {
+  width: 3.33333333rem;
+  height: 3.33333333rem;
+}
+.remenhuati_1 dd .huati_time {
+  margin-top: 0.33333333rem;
+  font-size: 0.6rem;
+  line-height: 1.66666667rem;
+  color: #999;
+}
+.remenhuati_1 dd .huati_time em {
+  float: right;
+  padding-left: 1.33333333rem;
+  background: url("../images/huati_pinglun.png") no-repeat 0 center;
+  background-size: 1rem 1rem;
+}
+.remenhuati_1 .last_dd_remenhuati {
+  margin-bottom: 0;
+}
+.page {
+  line-height: 4.33333333rem;
+  text-align: center;
+  background: #fff;
+}
+.page i {
+  display: inline-block;
+  line-height: 1.86666667rem;
+  border: 0.06666667rem solid #e9e9e9;
+}
+.page i a {
+  display: inline-block;
+  width: 1.86666667rem;
+  height: 1.86666667rem;
+  vertical-align: middle;
+}
+.page i .zuojiantou {
+  background: url("../images/zuojiantou_new.png") no-repeat center;
+  background-size: 0.6rem 1rem;
+  border-right: 0.06666667rem solid #e9e9e9;
+}
+.page i .youjiantou {
+  background: url("../images/youjiantou.png") no-repeat center;
+  background-size: 0.6rem 1rem;
+  border-left: 0.06666667rem solid #e9e9e9;
+}
+.page i span {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  line-height: 1.8rem;
+  display: inline-block;
+  border-left: 0;
+  border-right: 0;
+  color: #707070;
+}

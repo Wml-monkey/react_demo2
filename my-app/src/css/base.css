@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  width: 25rem;
+  background: #f5f5f5;
+}
+i {
+  text-decoration: none;
+  font-style: normal;
+}
+img {
+  vertical-align: top;
+}
+a {
+  text-decoration: none;
+  font-style: normal;
+  color: inherit;
+}
+em {
+  text-decoration: none;
+  font-style: normal;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+  font-weight: normal;
+}
+p {
+  padding: 0;
+  margin: 0;
+}
+ul,
+dl,
+ol,
+dt,
+dd {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.clear:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.title_white {
+  height: 3.33333333rem;
+}
+.title {
+  height: 3.33333333rem;
+  position: fixed;
+  z-index: 99;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: #fff;
+}
+.title .logo_bg {
+  margin-left: 0.66666667rem;
+  margin-top: 0.83333333rem;
+  display: block;
+  width: 9rem;
+  height: 1.66666667rem;
+  background: url("../images/logo.png") no-repeat;
+  background-size: 100%;
+}
+.title .set {
+  width: 1.06666667rem;
+  height: 0.86666667rem;
+  background: url("../images/three_line.png") no-repeat;
+  background-size: 1.06666667rem 0.86666667rem;
+  margin-top: 1.23333333rem;
+  margin-left: 1.16666667rem;
+  margin-right: 1.16666667rem;
+}
+.title .area {
+  font-size: 0.86666667rem;
+  line-height: 1rem;
+  margin-top: 1.16666667rem;
+  color: #1dacf9;
+  padding-right: 1rem;
+  background: url("../images/title_area_bg.png") no-repeat;
+  background-position: right center;
+  background-size: 0.7rem 0.4rem;
+  font-weight: bold;
+}
+.ads img {
+  width: 100%;
+}
+.lujing {
+  padding-left: 0.66666667rem;
+  font-size: 0;
+  color: #999;
+  border-bottom: 0.06666667rem solid #eeeeee;
+}
+.lujing a {
+  margin-right: 0.4rem;
+  color: #999;
+  font-size: 0.86666667rem;
+  line-height: 2rem;
+}
+.lujing a.jiantou:before {
+  display: inline-block;
+  content: '>';
+  margin-right: 0.4rem;
+}
+.corporation {
+  padding-top: 1.16666667rem;
+  padding-bottom: 0.56666667rem;
+}
+.corporation p {
+  text-align: center;
+  font-size: 0.73333333rem;
+  line-height: 1.1rem;
+  color: #999999;
+}
+.ti_act {
+  width: 100%;
+  background: #fff;
+}

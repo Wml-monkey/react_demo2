@@ -1,0 +1,98 @@
+.ti_xiangqing {
+  margin-top: 0.66666667rem;
+  margin-bottom: 1.33333333rem;
+  padding: 0 1rem;
+}
+.ti_xiangqing p {
+  font-size: 0.93333333rem;
+  line-height: 2.33333333rem;
+  color: #18b4ed;
+  font-weight: bold;
+}
+.ti_xiangqing .ti_introduce {
+  font-size: 0.86666667rem;
+  line-height: 1.53333333rem;
+  color: #8e734d;
+}
+.ti_cheyoufenxi {
+  margin: 0 1rem;
+}
+.ti_cheyoufenxi p {
+  font-size: 0.93333333rem;
+  line-height: 2.33333333rem;
+  color: #18b4ed;
+  font-weight: bold;
+  border-bottom: 0.06666667rem solid #f0f0f0;
+}
+.ti_cheyoufenxi .fenxi_cont {
+  padding-top: 1rem;
+  border-bottom: 0.06666667rem solid #f0f0f0;
+}
+.ti_cheyoufenxi .fenxi_cont .user_logo {
+  height: 100%;
+  margin-right: 1rem;
+}
+.ti_cheyoufenxi .fenxi_cont .user_logo img {
+  width: 2.66666667rem;
+  height: 2.66666667rem;
+}
+.ti_cheyoufenxi .fenxi_cont .user_info {
+  padding-bottom: 1rem;
+}
+.ti_cheyoufenxi .fenxi_cont .user_info .user_name {
+  width: 19.33333333rem;
+  line-height: 1.33333333rem;
+  margin-bottom: 1.06666667rem;
+}
+.ti_cheyoufenxi .fenxi_cont .user_info .user_name span {
+  font-size: 0.8rem;
+  color: #333333;
+}
+.ti_cheyoufenxi .fenxi_cont .user_info .user_name em {
+  font-size: 0.6rem;
+  color: #999999;
+}
+.ti_cheyoufenxi .fenxi_cont .user_info .user_comment {
+  width: 19.33333333rem;
+  line-height: 1.4rem;
+  font-size: 0.8rem;
+  color: #919191;
+}
+.ti_cheyoufenxi .fenxi_more {
+  line-height: 2.6rem;
+  background: #f0f0f0;
+  text-align: center;
+  font-size: 1rem;
+  color: #999999;
+  margin-top: 1rem;
+}
+.ti_introduce p p {
+  padding: 0;
+  margin: 0;
+  color: red;
+  font-size: .28rem;
+  line-height: 1.7;
+}
+.dd-img {
+  margin-bottom: 1rem;
+}
+.dd-img img {
+  width: 23rem;
+}
+.dd-img video {
+  width: 23rem;
+}
+.finall_cont {
+  padding-bottom: 3.66666667rem;
+  margin-bottom: 0;
+}
+.finall_cont dd.sure span {
+  background: url("../images/sure.png") no-repeat;
+  background-size: cover;
+  color: transparent;
+}
+.finall_cont dd.false span {
+  background: url("../images/false.png") no-repeat;
+  background-size: cover;
+  color: transparent;
+}

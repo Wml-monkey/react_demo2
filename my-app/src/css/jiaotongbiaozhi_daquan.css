@@ -1,0 +1,21 @@
+.biaozhi_list {
+  padding: 0 0.83333333rem;
+  background: #fff;
+}
+.biaozhi_list li .biaozhi_title {
+  font-size: 0.93333333rem;
+  line-height: 3rem;
+  color: #999999;
+}
+.biaozhi_list li .biaozhi_title span {
+  font-weight: bold;
+  color: #333333;
+}
+.biaozhi_list li .biaozhi_title i {
+  float: right;
+  color: #999999;
+}
+.biaozhi_list li .biaozhi_imgs img {
+  float: left;
+  width: 25%;
+}

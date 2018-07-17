@@ -1,0 +1,63 @@
+.jiaxiao_taolun {
+  padding: 0 1rem;
+}
+.jiaxiao_taolun li {
+  padding: 1rem 0;
+  border-bottom: 0.06666667rem solid #F0f0f0;
+}
+.jiaxiao_taolun li .user_img {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 1.33333333rem;
+}
+.jiaxiao_taolun li .user_img img {
+  width: 3rem;
+  height: 3rem;
+}
+.jiaxiao_taolun li .user_comment .user_name {
+  font-size: 1rem;
+  line-height: 1.4rem;
+  color: #333333;
+  margin-bottom: 0.93333333rem;
+}
+.jiaxiao_taolun li .user_comment .user_name em {
+  color: #999999;
+  margin-left: 0.83333333rem;
+}
+.jiaxiao_taolun li .user_comment .huati {
+  font-size: 0.93333333rem;
+  line-height: 1.4rem;
+  color: #333333;
+  margin-bottom: 0.83333333rem;
+}
+.jiaxiao_taolun li .user_comment .user_tupian {
+  margin-bottom: 1.1rem;
+}
+.jiaxiao_taolun li .user_comment .user_tupian img {
+  width: 5.83333333rem;
+  height: 5.83333333rem;
+}
+.jiaxiao_taolun li .user_comment .user_time {
+  font-size: 0.86666667rem;
+  line-height: 1.13333333rem;
+  color: #999999;
+}
+.jiaxiao_taolun li .user_comment .user_time em {
+  float: right;
+  padding-left: 1.33333333rem;
+  background: url("../images/zan.png") no-repeat 0 center;
+  background-size: 1rem 1rem;
+}
+.jiaxiao_taolun_more {
+  font-size: 0.86666667rem;
+  line-height: 2.66666667rem;
+  color: #666666;
+  text-align: center;
+}
+.jiaxiao_taolun_more em {
+  padding-right: 1.6rem;
+  background: url("../images/xiasanjiao.png") no-repeat right center;
+  background-size: 1rem 0.5rem;
+}

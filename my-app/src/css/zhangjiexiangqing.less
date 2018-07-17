@@ -1,0 +1,59 @@
+@rem:30rem;
+
+.ti_cont{
+  border-bottom: 2/@rem solid #f0f0f0;
+  dd{
+    span.active{
+      //background: url("../images/zhengque.png") no-repeat;
+      background-size:70/@rem 70/@rem;
+      position: relative;
+    }
+    span.active:after{
+      display: block;
+      content: '';
+      position: absolute;
+      border-radius:50%;
+      width:100%;
+      height:100%;
+      left:0;
+      top:0;
+      background: url("../images/zhengque.png") no-repeat -5/@rem 0;
+      background-size:70/@rem 70/@rem;
+    }
+  }
+  p{
+    padding-left:40/@rem;
+    padding-bottom: 40/@rem;
+    background: #fff;
+    a{
+      display: inline-block;
+      font-size:22/@rem;
+      line-height:22/@rem;
+      padding:10/@rem 17/@rem;
+      color: #37b5f8;
+      border:2/@rem solid #37b5f8;
+    }
+  }
+}
+
+.page_num_box{
+  background: #fff;
+  line-height:120/@rem;
+  font-size:24/@rem;
+  padding:0 23/@rem;
+  a{
+    padding:14/@rem 30/@rem;
+    border:2/@rem solid #e9e9e9;
+    line-height:24/@rem;
+    color: #696969;
+  }
+  a.no_click{
+    color: #999999;
+  }
+  span{
+    line-height:24/@rem;
+    margin-right: 150/@rem;
+    margin-left:150/@rem;
+    color: #737373;
+  }
+}

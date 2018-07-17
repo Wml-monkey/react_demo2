@@ -1,0 +1,252 @@
+.baodian_ads {
+  background: #fff;
+  padding: 1rem 1.16666667rem;
+}
+.baodian_ads .baodian_ads_img {
+  width: 2.33333333rem;
+  height: 2.26666667rem;
+}
+.baodian_ads .baodian_ads_img img {
+  width: 2.33333333rem;
+  height: 2.26666667rem;
+}
+.baodian_ads .baodian_ads_cont {
+  width: 16rem;
+  height: 2.26666667rem;
+  padding-left: 0.5rem;
+}
+.baodian_ads .baodian_ads_cont .ads_title {
+  margin-bottom: 0.43333333rem;
+}
+.baodian_ads .baodian_ads_cont .ads_title span {
+  font-size: 1rem;
+  line-height: 1rem;
+  color: #101010;
+}
+.baodian_ads .baodian_ads_cont .ads_title em {
+  font-size: 0.6rem;
+  line-height: 0.6rem;
+  padding: 0.1rem 0.23333333rem;
+  display: inline-block;
+  border: 0.06666667rem solid #e3e3e3;
+  color: #e3e3e3;
+  margin-left: 0.33333333rem;
+  border-radius: 0.16666667rem;
+}
+.baodian_ads .baodian_ads_cont .baodian_jieshao {
+  font-size: 0.73333333rem;
+  line-height: 0.86666667rem;
+  color: #bdbdbd;
+}
+.baodian_ads .chakan {
+  float: left;
+  margin-top: 0.16666667rem;
+  width: 3.73333333rem;
+  height: 1.86666667rem;
+}
+.baodian_ads .chakan a {
+  display: block;
+  width: 3.73333333rem;
+  height: 1.86666667rem;
+  background: #3897f0;
+  text-align: center;
+  color: #fff;
+  border-radius: 0.16666667rem;
+  font-size: 0.8rem;
+  line-height: 1.86666667rem;
+}
+.article {
+  padding: 0.66666667rem 0.73333333rem;
+  background: #fff;
+  margin-bottom: 0.66666667rem;
+}
+.article .article_title span {
+  font-size: 1.4rem;
+  line-height: 2rem;
+  color: #333333;
+  font-weight: bold;
+}
+.article .article_title span:before {
+  display: inline-block;
+  content: '';
+  width: 2.4rem;
+  height: 1.2rem;
+  background: url("../images/yuanchuang.png") no-repeat;
+  background-size: cover;
+}
+.article .article_time {
+  font-size: 0.6rem;
+  line-height: 2rem;
+  color: #999999;
+}
+.article .article_time em {
+  margin-left: 0.66666667rem;
+  margin-right: 0.16666667rem;
+}
+.article .article_img {
+  padding: 1rem 0;
+}
+.article .article_img img {
+  width: 100%;
+}
+.article .zhengwen {
+  padding: 0.6rem 0;
+  font-size: 1rem;
+  line-height: 1.66666667rem;
+  color: #333333;
+}
+.article .zhengwen em {
+  color: #4b8fce;
+}
+.article .zhengwen i {
+  font-weight: bold;
+  color: #333333;
+}
+.article p {
+  line-height: 1.8rem;
+  color: #333333;
+}
+.article_ads {
+  padding: 0.83333333rem;
+  padding-top: 0;
+}
+.article_ads img {
+  width: 100%;
+}
+.xiangguanzixun_list {
+  padding: 0 1rem;
+  background: #fff;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_title {
+  font-size: 1rem;
+  line-height: 3.13333333rem;
+  color: #333333;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont {
+  padding: 1rem 0;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont .xiangguanzixun_cont_img {
+  width: 7.4rem;
+  height: 4.66666667rem;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont .xiangguanzixun_cont_img img {
+  width: 100%;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont .xiangguan_xijie {
+  width: 15rem;
+  height: 4.66666667rem;
+  padding-left: 0.5rem;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont .xiangguan_xijie p {
+  font-size: 0.93333333rem;
+  line-height: 1.33333333rem;
+  color: #333333;
+  margin-bottom: 0.93333333rem;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont .xiangguan_xijie .xiangguan_xijie_time {
+  font-size: 0.73333333rem;
+  color: #999999;
+  line-height: 1.13333333rem;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont .xiangguan_xijie .xiangguan_xijie_time span {
+  margin-right: 0.5rem;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont .xiangguan_xijie .xiangguan_xijie_time i {
+  float: right;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont1 .xiangguanzixun_title {
+  line-height: 2.93333333rem;
+  height: 2.93333333rem;
+  overflow: hidden;
+  font-size: 1rem;
+  color: #333333;
+  font-weight: bold;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont1 .xiangguanzixun_img223 img {
+  width: 7.33333333rem;
+  height: 4.66666667rem;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont1 .xiangguanzixun_num {
+  font-size: 0.73333333rem;
+  line-height: 2rem;
+  color: #a4a4a4;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont1 .xiangguanzixun_num em {
+  margin-left: 0.5rem;
+}
+.xiangguanzixun_list .xiangguanzixun_div .xiangguanzixun_cont1 .xiangguanzixun_num i {
+  float: right;
+}
+.remen_pinglun {
+  background: #fff;
+  padding: 0 1rem;
+}
+.remen_pinglun dt {
+  font-size: 1rem;
+  line-height: 3.13333333rem;
+  color: #707070;
+}
+.remen_pinglun dd {
+  border-bottom: 0.06666667rem solid #e9e9e9;
+  padding-bottom: 1rem;
+}
+.remen_pinglun dd .pinglun_img {
+  margin-right: 1rem;
+  width: 2.83333333rem;
+  height: 2.83333333rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.remen_pinglun dd .pinglun_img img {
+  width: 2.83333333rem;
+}
+.remen_pinglun dd .pinglun_cont {
+  max-width: 18rem;
+}
+.remen_pinglun dd .pinglun_cont .usr_name {
+  font-size: 0.66666667rem;
+  line-height: 2.13333333rem;
+  color: #666666;
+}
+.remen_pinglun dd .pinglun_cont .usr_comment {
+  font-size: 0.86666667rem;
+  line-height: 1.33333333rem;
+  color: #666666;
+  margin-bottom: 0.66666667rem;
+}
+.remen_pinglun dd .pinglun_cont .usr_time {
+  font-size: 0.73333333rem;
+  line-height: 1rem;
+  color: #999999;
+}
+.remen_pinglun dd .pinglun_cont .usr_dizhi {
+  font-size: 0.73333333rem;
+  line-height: 1rem;
+  color: #999999;
+  text-indent: 1.33333333rem;
+}
+.remen_pinglun dd .pinglun_cont .usr_dizhi em {
+  padding-left: 1rem;
+  background: url("../images/zan.png") no-repeat 0 center;
+  background-size: 0.83333333rem;
+  float: right;
+}
+.remen_more_box {
+  background: #fff;
+  padding-bottom: 1rem;
+}
+.remen_more {
+  margin: 0 1rem;
+  background: #f5f5f5;
+  margin-bottom: 1rem;
+  height: 2.66666667rem;
+  font-size: 0.93333333rem;
+  line-height: 2.66666667rem;
+  text-align: center;
+  color: #666666;
+}
+.remen_more span {
+  padding-right: 1.33333333rem;
+  background: url("../images/remen_more_img.png") no-repeat right center;
+  background-size: 1rem 0.5rem;
+}

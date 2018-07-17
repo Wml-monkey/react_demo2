@@ -1,0 +1,49 @@
+.banner {
+  height: 11.33333333rem;
+}
+.banner span {
+  display: block;
+  width: 100%;
+  height: 11.33333333rem;
+  background: url("../images/banner_xiazai.png") no-repeat;
+  background-size: cover;
+}
+.app_list {
+  padding: 0 0.8rem;
+  background: #fff;
+}
+.app_list li {
+  height: 3.53333333rem;
+  padding: 1rem 1.1rem;
+  border-bottom: 0.06666667rem solid #f8f8f8;
+}
+.app_list li .app_img {
+  width: 3.46666667rem;
+  height: 3.46666667rem;
+  background: url("../images/app_xiazai_logo.png") no-repeat;
+  background-size: cover;
+}
+.app_list li .app_cont {
+  margin-left: 0.83333333rem;
+}
+.app_list li .app_cont .app_title {
+  font-size: 1rem;
+  line-height: 2.13333333rem;
+  color: #333;
+}
+.app_list li .app_cont p {
+  font-size: 0.73333333rem;
+  line-height: 1.43333333rem;
+  color: #a4a4a4;
+}
+.app_list li .app_xiazai a {
+  margin-top: 1rem;
+  display: inline-block;
+  width: 3.86666667rem;
+  font-size: 0.86666667rem;
+  line-height: 2rem;
+  color: #fff;
+  text-align: center;
+  background: #36bf74;
+  border-radius: 0.26666667rem;
+}

@@ -1,0 +1,53 @@
+.ti_cont {
+  border-bottom: 0.06666667rem solid #f0f0f0;
+}
+.ti_cont dd span.active {
+  background-size: 2.33333333rem 2.33333333rem;
+  position: relative;
+}
+.ti_cont dd span.active:after {
+  display: block;
+  content: '';
+  position: absolute;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: url("../images/zhengque.png") no-repeat -0.16666667rem 0;
+  background-size: 2.33333333rem 2.33333333rem;
+}
+.ti_cont p {
+  padding-left: 1.33333333rem;
+  padding-bottom: 1.33333333rem;
+  background: #fff;
+}
+.ti_cont p a {
+  display: inline-block;
+  font-size: 0.73333333rem;
+  line-height: 0.73333333rem;
+  padding: 0.33333333rem 0.56666667rem;
+  color: #37b5f8;
+  border: 0.06666667rem solid #37b5f8;
+}
+.page_num_box {
+  background: #fff;
+  line-height: 4rem;
+  font-size: 0.8rem;
+  padding: 0 0.76666667rem;
+}
+.page_num_box a {
+  padding: 0.46666667rem 1rem;
+  border: 0.06666667rem solid #e9e9e9;
+  line-height: 0.8rem;
+  color: #696969;
+}
+.page_num_box a.no_click {
+  color: #999999;
+}
+.page_num_box span {
+  line-height: 0.8rem;
+  margin-right: 5rem;
+  margin-left: 5rem;
+  color: #737373;
+}
